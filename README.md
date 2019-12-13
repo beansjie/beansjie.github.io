@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://beansjie.github.io/)**
 
-![screenshot home](/assets/images/screenshots/home.png)
+![screenshot home](/assets/images/screenshots/home.png) 
 
 ## Fork 指南
 
