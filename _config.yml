@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: beansJie
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: beansjie
+location: LuoYang, China
+email: beans_2190lj@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -34,9 +34,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
   -
     href: /wiki/
@@ -81,7 +81,8 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: beansjie/beansjie.github.io
+
 
 # ---------------- #
 #      Comments    #
@@ -93,19 +94,19 @@ comments_provider: gitalk
 # https://disqus.com
 disqus:
     username: 
-# https://imsun.net/posts/gitment-introduction/
+# https://imsun.net/posts/gitment-introduction/  TODO
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner:
+    repo:
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# https://github.com/gitalk/gitalk#install
+        client_id:
+        client_secret:
+# https://github.com/gitalk/gitalk#install  TODO
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner:
+    repo:
+    clientID:
+    clientSecret:
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
