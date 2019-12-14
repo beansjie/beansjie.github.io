@@ -41,6 +41,10 @@
     content: "\e606"
 }
 
+.icon-github:before {
+    content: "\e610"
+}
+
 .share-component a {
     position: relative;
     text-decoration: none;
@@ -102,7 +106,18 @@
     border-color: #ffe21f
 }
 
+.share-component .icon-github {
+    line-height: 29px;
+    color: #ffe21f;
+    border-color: #ffe21f
+}
+
+
 .share-component .icon-qzone:hover {
+    background: #ffe21f
+}
+
+.share-component .icon-github:hover {
     background: #ffe21f
 }
 
