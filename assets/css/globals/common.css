@@ -13,7 +13,7 @@
 }
 
 @font-face {
-    font-family:octicons;src:font-url("../../vendor/octicons/octicons.eot?#iefix") format("embedded-opentype"),font-url(../fonts/octicons.woff) format("woff"),font-url(../fonts/octicons.ttf) format("truetype"),font-url(../fonts/octicons.svg#octicons) format("svg");font-weight:400;font-style:normal
+    font-family:octicons;src:font-url("../../vendor/octicons/octicons.eot?#iefix") format("embedded-opentype"),font-url("../../vendor/octicons/octicons.woff") format("woff"),font-url("../../vendor/octicons/octicons.ttf") format("truetype"),font-url("../../vendor/octicons/octicons.svg#octicons") format("svg");font-weight:400;font-style:normal
 }
 
 .pagination {

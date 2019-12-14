@@ -108,8 +108,8 @@
 
 .share-component .icon-github {
     line-height: 29px;
-    color: #ffe21f;
-    border-color: #ffe21f
+    color: #2c2c2c;
+    border-color: #2c2c2c
 }
 
 .share-component .icon-qzone:hover {
@@ -117,7 +117,7 @@
 }
 
 .share-component .icon-github:hover {
-    background: #ffe21f
+    background: #2c2c2c
 }
 
 
