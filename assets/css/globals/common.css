@@ -12,10 +12,6 @@
     -webkit-backface-visibility: hidden
 }
 
-@font-face {
-    font-family:octicons;src:font-url(../fonts/octicons.eot?#iefix) format("embedded-opentype"),font-url(../fonts/octicons.woff) format("woff"),font-url(../fonts/octicons.ttf) format("truetype"),font-url(../fonts/octicons.svg#octicons) format("svg");font-weight:400;font-style:normal
-}
-
 .pagination {
     padding: 20px 0
 }
@@ -134,7 +130,7 @@
     margin-left: -75px;
     font-size: 12px;
     color: #666;
-    background: url(../images/min/octocat-spinner-16px.gif) 10px 50% no-repeat #eee;
+    background: url(../../images/octocat-spinner-16px.gif) 10px 50% no-repeat #eee;
     border: 1px solid #ddd;
     border-top: 1px solid #fff;
     border-radius: 0 0 5px 5px
@@ -142,7 +138,7 @@
 
 @media screen and (-webkit-min-device-pixel-ratio:2),screen and (max--moz-device-pixel-ratio:2) {
     .context-loader {
-        background: url(../images/min/octocat-spinner-32-EAF2F5.gif) 10px 50% no-repeat #eee;
+        background: url(../../images/octocat-spinner-32-EAF2F5.gif) 10px 50% no-repeat #eee;
         background-size: 16px auto
     }
 }
