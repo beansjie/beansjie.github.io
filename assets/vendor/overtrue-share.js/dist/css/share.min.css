@@ -42,7 +42,7 @@
 }
 
 .icon-github:before {
-    content: "\e800"
+    content: "github"
 }
 
 .share-component a {
