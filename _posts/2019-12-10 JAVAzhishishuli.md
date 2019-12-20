@@ -1,4 +1,13 @@
-﻿@[TOC](Java开发相关技术知识梳理)
+﻿---
+layout: post
+title: Java开发相关技术知识梳理
+categories: Algorithm
+description: 有关Java的知识梳理。
+keywords: Java
+---
+
+
+@[TOC](Java开发相关技术知识梳理)
 ## 控制层
 		
  -  ####   Spring  
